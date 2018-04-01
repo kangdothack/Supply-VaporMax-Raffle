@@ -1,6 +1,7 @@
 import names
 import random
 import requests
+import time
 from bs4 import BeautifulSoup
 from config import *
 from sizes import *
@@ -55,6 +56,8 @@ def submit():
         g_logging('{}/{} Successful Raffle Entries'.format(i, submit_count))
     else:
         r_logging(r.text)
+
+    time.sleep(15)
 
 
 for i in range(int(submit_count)):
