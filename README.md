@@ -15,10 +15,10 @@ python main.py
 
 ## Built With
 
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - A Python library designed for quick turnaround projects like screen-scraping
-* [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
-* [Names](https://github.com/treyhunner/names) - Random name generator
-* [Requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - A Python library designed for quick turnaround projects like screen-scraping.
+* [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python.
+* [Names](https://github.com/treyhunner/names) - Random name generator.
+* [Requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™.
 
 ## Authors
 
