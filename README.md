@@ -4,7 +4,7 @@ A script to automate entries for the Supply Store (Australia) Off-White 'Black' 
 
 ## Prerequisites
 
-* [Python 3](https://www.python.org/downloads/) ([Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [Colorama](https://github.com/tartley/colorama), [Names](https://github.com/treyhunner/names), [Requests](https://github.com/requests/requests)
+* [Python 3](https://www.python.org/downloads/) ([Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [Colorama](https://github.com/tartley/colorama), [Names](https://github.com/treyhunner/names), [Requests](https://github.com/requests/requests))
 
 ## Installation and Setup
 
